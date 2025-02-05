@@ -1,7 +1,5 @@
 <h1>Jogo do Número Secreto</h1>
 
-<h2>📄 Sobre</h2>
-
 <p>Este código implementa um jogo de adivinhação de número secreto. O objetivo do jogador é adivinhar um número aleatório gerado pelo programa, dentro de um intervalo de 1 a 100 (por padrão). A aplicação possui as seguintes funcionalidades:</p>  
 
 <li>Geração do número secreto: Um número aleatório é gerado no início do jogo, garantindo que ele não se repita em jogos consecutivos.</li>
